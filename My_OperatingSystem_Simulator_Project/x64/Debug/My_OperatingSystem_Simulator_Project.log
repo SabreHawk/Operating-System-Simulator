@@ -1,0 +1,3 @@
+﻿  shOperatingSystem.cpp
+c:\users\sabre\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shoperatingsystem.cpp(584): warning C4715: 'shOperatingSystem::replaceFile': not all control paths return a value
+  My_OperatingSystem_Simulator_Project.vcxproj -> C:\Users\Sabre\Documents\SourceCode\Project-VisualStudio\My_OperatingSystem_Simulator_Project\x64\Debug\My_OperatingSystem_Simulator_Project.exe

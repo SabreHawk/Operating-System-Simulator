@@ -1,0 +1,17 @@
+﻿  shOperatingSystem.cpp
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shoperatingsystem.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shoperatingsystem.cpp(307): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shoperatingsystem.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+  shFolder.cpp
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shfolder.cpp(84): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shfolder.cpp(90): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shfolder.cpp(99): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shfolder.cpp(110): warning C4018: “>=”: 有符号/无符号不匹配
+  shCommand.cpp
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shcommand.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+c:\users\zhiquan.wang\documents\sourcecode\project-visualstudio\my_operatingsystem_simulator_project\my_operatingsystem_simulator_project\shoperatingsystem.cpp(549): warning C4715: “shOperatingSystem::replaceFile”: 不是所有的控件路径都返回值
+  正在编译...
+  My_OperatingSystem_Simulator_Project.cpp
+  正在生成代码...
+  My_OperatingSystem_Simulator_Project.vcxproj -> C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-VisualStudio\My_OperatingSystem_Simulator_Project\Debug\My_OperatingSystem_Simulator_Project.exe
